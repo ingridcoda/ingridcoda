@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-  <a href="https://github.com/ingridcoda">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ingridcoda&theme=dark&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridcoda&hide=css,shell,html&theme=dark&layout=compact"/>
 </div> 
